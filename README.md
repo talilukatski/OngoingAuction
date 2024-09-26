@@ -1,1 +1,3 @@
-# OngoingAuction
+Sequential Auction Pricing Strategy for New Products
+
+This project involves developing an automated system to set prices for a new smartphone released by the company SomeSong. The system aims to maximize revenue while considering the uncertainty of customer valuations for the product. Customers enter the store sequentially, and the system dynamically adjusts prices based on customer feedback—whether they purchase the product or not. The task explores different pricing strategies using statistical distributions to model customer behavior and improve price-setting accuracy in an uncertain market.
